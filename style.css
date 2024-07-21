@@ -1,18 +1,19 @@
 body {
     text-align: center;
-    background-color: rgb(75, 161, 214);
+    background-color: #32CACA;
 }
 
 body h1 {
     font-size: 44px;
     background-color: antiquewhite;
+    /* border-color: 5px, black; */
     color: rgb(202, 50, 50);
-    font-family: Lucida Handwriting,Georgia, 'Times New Roman', Times, sans-serif;
+    font-family: Lucida Handwriting, Georgia, 'Times New Roman', Times, sans-serif;
 }
 
 body ul {
     font-size: 24px;
-    color: beige;
-    font-family: Papyrus;
-    
+    color: #CA3232;
+    font-family: "Samarkan Font", Papyrus;
+    list-style-type: lower-roman;
 }
