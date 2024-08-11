@@ -30,14 +30,14 @@ body {
     color: rgb(202, 50, 50);
 }
 
-.list.items {
+.items.list {
     font-size: 24px;
     color: #CA3232;
     font-family: "Samarkan Font", Papyrus;
     /* list-style-type: lower-latin; */
 }
 
-.options {
+.items.options {
     max-width: 1200px;
     margin: 0px 48px 16px 48px;
     padding: 4px;
@@ -45,5 +45,10 @@ body {
     border-radius: 0px 20px;
     font-size: 20px;
     font-weight: bold;
-    /* display: inline; */ 
+    /* display: inline; */
+}
+
+.options#even {
+    /* to invert border radius of even numbered links (elements) */
+    border-radius: 20px 0px;
 }
