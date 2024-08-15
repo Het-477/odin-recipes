@@ -1,6 +1,6 @@
 {
-    "cSpell.words": [
-        "dont"
-    ],
-    "liveServer.settings.CustomBrowser": "chrome"
+	"cSpell.words": ["dont"],
+	"liveServer.settings.CustomBrowser": "chrome",
+	"editor.fontFamily": "JetBrains Mono",
+	"editor.inlayHints.fontFamily": "JetBrains Mono "
 }
